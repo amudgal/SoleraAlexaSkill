@@ -1,0 +1,9 @@
+MicroStrategyReportActions Run {reports}
+MicroStrategyReportActions Run {reports} now
+MicroStrategyReportActions Please Run {reports}
+MicroStrategyReportActions Please Run {reports} now
+MicroStrategyReportActions {reports}
+AMAZON.HelpIntent tell me those report names again
+AMAZON.HelpIntent tell me the report names
+AMAZON.HelpIntent what are the report names again
+AMAZON.HelpIntent what are the report names
